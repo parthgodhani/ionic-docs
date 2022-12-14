@@ -24,7 +24,7 @@
     "@sentry/node": "^5.4.0",
     "@stencil/router": "^1.0.0",
     "compression": "^1.7.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "helmet": "^3.16.0",
     "throng": "^4.0.0"
   },
